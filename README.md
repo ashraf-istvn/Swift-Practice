@@ -6,13 +6,14 @@ Learning swift, started date : <b>2019-07-23</b>
 -> Share with other what i learned
 
 </br>
-<b>simpleLogin</b> </br>
-->print() 
-->read string
-->if condition</br>
+<b>SimpleLogin</b> </br>
+* print() 
+* read string
+* if condition</br>
 
-<b>factorial</b> </br>
+</br>
+<b>Factorial</b> </br>
 input from user then display the factorial value
 </br>
--> read integer
--> reverse for loop
+* read integer
+* reverse for loop
