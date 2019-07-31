@@ -1,7 +1,6 @@
 /**
 	Swift enum class
 */
-
 enum Day: String{
 	case monday
 	case tuesday
@@ -31,6 +30,7 @@ enum Day: String{
 	}
 
 }
+
 
 var day = Day.friday
 
