@@ -6,7 +6,7 @@
 */
 
 // Swap two integer value
-func swap<T>(_ a: inout T, _ b: inout T){
+func swap<T>( a: inout T, b: inout T){
 	let temp = a
 	a = b
 	b = temp
