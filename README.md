@@ -30,8 +30,8 @@ Learning swift, started date : <b>2019-07-23</b>
 <b>Factorial</b> </br>
 input from user then display the factorial value
 </br>
-* read integer
-* reverse for loop
+* read integer</br>
+* reverse for loop</br>
 
 </br>
 <b>Array</b> </br>
@@ -50,25 +50,23 @@ Dictionaries are unordered collections of key-value associations
 Swift function declear
 </br>
 
-
-
 </br>
 <b>Swap</b> </br>
 Swap is very important function in every programming language
 </br>
-* Swap two double 
-* Swap two integer
-* Swap two string 
+* Swap two double  </br>
+* Swap two integer </br>
+* Swap two string  </br>
 </br>
-
 
 </br>
 <b>Generic</b> </br>
-Generic code enables you to write flexible, reusable functions and types that can work with any type, subject to requirements that you define
+Generic code enables you to write flexible, reusable functions and types that can work with any type, 
+subject to requirements that you define
 Generics are one of the most powerful features of Swift, and much of the Swift standard library is built with generic code.
 </br>
-* SWAP function by generic 
-* SWAP any data type value
+* SWAP function by generic </br>
+* SWAP any data type value </br>
 </br>
 
 
@@ -76,9 +74,9 @@ Generics are one of the most powerful features of Swift, and much of the Swift s
 <b>Swift class</b> </br>
 Declearation of swift class, extend other class etc
 </br>
-* Class decleration
-* Extend class
-* Object creation
+* Class decleration </br>
+* Extend class </br>
+* Object creation </br>
 </br>
 
 </br>
@@ -86,5 +84,5 @@ Declearation of swift class, extend other class etc
 Solution of some swift programming challenge, "challenge are also available in code"
 </br>
 * Challenge #1: The Lost Animal Challenge</br>
-* Challenge #2: The Caterpillar Challenge
+* Challenge #2: The Caterpillar Challenge</br>
 </br>
