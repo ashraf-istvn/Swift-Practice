@@ -22,28 +22,26 @@ Learning swift, started date : <b>2019-07-23</b>
 * Foor </br>
 * While and</br>
 * Do While loop
+</br></br>
 
-</br>
 
 <b>Factorial</b> </br>
 input from user then display the factorial value
 </br>
 * read integer</br>
 * reverse for loop
-
 </br>
+
 <b>Array</b> </br>
 initialize array, insert, read, remove value from array
 </br>
 
-</br>
 <b>Dictionary</b> </br>
 Arrays are ordered collections of values. 
 Sets are unordered collections of unique values.
 Dictionaries are unordered collections of key-value associations
 </br>
 
-</br>
 <b>Function</b> </br>
 Swift function declear
 </br>
@@ -65,7 +63,6 @@ Generics are one of the most powerful features of Swift, and much of the Swift s
 * SWAP any data type value </br>
 </br>
 
-
 <b>Swift class</b> </br>
 Declearation of swift class, extend other class etc
 </br>
@@ -77,7 +74,6 @@ Declearation of swift class, extend other class etc
 <b>Swift challenge</b> </br>
 Solution of some swift programming challenge, "challenge are available in code"
 </br>
-
 
 * Challenge #1: The Lost Animal Challenge</br>
 * Challenge #2: The Caterpillar Challenge</br>
