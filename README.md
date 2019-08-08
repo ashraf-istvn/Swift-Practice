@@ -4,20 +4,35 @@ Learning swift, started date : <b>2019-07-23</b>
 <b>Objective</b> </br>
 -> Track learning progress </br>
 -> Share with other what i learned
-
 </br>
+
+## Swift challenge
+Solution of some swift programming challenge, "challenge are available in code"
+</br>
+
+* Challenge #1: The Lost Animal Challenge</br>
+* Challenge #2: The Caterpillar Challenge</br>
+</br>
+
+## Hackerrank problem solution
+Solved some easy problem from hackerrank</br>
+
+* Conpare Triplets</br>
+* Diagonal Difference</br>
+* Mini Max sum</br>
+* Plus Minus and Zero ratio</br>
+* Staircase </br>
+
 <b>SimpleLogin</b> </br>
 * print() </br>
 * read string</br>
 * if condition
 </br>
 
-</br>
 <b>Linear Search</b> </br>
 * Implementation of lenear search
 </br>
 
-</br>
 <b>Loop</b> </br>
 * Foor </br>
 * While and</br>
@@ -71,10 +86,3 @@ Declearation of swift class, extend other class etc
 * Object creation </br>
 </br>
 
-<b>Swift challenge</b> </br>
-Solution of some swift programming challenge, "challenge are available in code"
-</br>
-
-* Challenge #1: The Lost Animal Challenge</br>
-* Challenge #2: The Caterpillar Challenge</br>
-</br>
