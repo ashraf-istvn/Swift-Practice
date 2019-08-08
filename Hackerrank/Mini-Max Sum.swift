@@ -6,8 +6,7 @@
 	arr: an array of 5 integers
 
 	problem type: easy
-*/
-/*
+
 	Sample Input
 
 	1 2 3 4 5
@@ -53,7 +52,6 @@ func miniMaxSum(arr: [Int]) -> Void {
 
 	print("\(maxSum) \(minSum)")
 }
-
 
 
 var arr:[Int] = [1, 2, 3, 4, 5]
