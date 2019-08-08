@@ -6,7 +6,7 @@ Learning swift, started date : <b>2019-07-23</b>
 -> Share with other what i learned
 </br>
 
-## Swift challenge
+### Swift challenge
 Solution of some swift programming challenge, "challenge are available in code"
 </br>
 
@@ -14,7 +14,7 @@ Solution of some swift programming challenge, "challenge are available in code"
 * Challenge #2: The Caterpillar Challenge</br>
 </br>
 
-## Hackerrank problem solution
+### Hackerrank problem solution
 Solved some easy problem from hackerrank</br>
 
 * Conpare Triplets</br>
