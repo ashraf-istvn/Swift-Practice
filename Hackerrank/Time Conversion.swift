@@ -27,7 +27,6 @@ func timeConversion(s: String) -> String {
     let last = subString[2]
     var type:String = ""
 
-
     if last.hasSuffix("PM") {
       type = "PM"
     }else{
