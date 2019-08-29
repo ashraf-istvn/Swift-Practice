@@ -22,6 +22,8 @@ Solved some easy problem from hackerrank</br>
 * Mini Max sum</br>
 * Plus Minus and Zero ratio</br>
 * Staircase </br>
+* Birthday Cake Candles </br>
+* Time Conversion </br>
 
 <b>SimpleLogin</b> </br>
 * print() </br>
